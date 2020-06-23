@@ -9,10 +9,7 @@ header, footer {
 nav li {
  padding: 0 18px;
 }
-nav li.active, :before {
- background-color: #;
- border-radius: 5px;
-}
+
 .carousel a:hover {
  background: #ff0000;
 }
