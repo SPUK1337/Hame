@@ -6,9 +6,7 @@ header, footer {
  font-weight: 600;
 }
 
-nav li {
- padding: 0 18px;
-}
+
 
 .carousel a:hover {
  background: #ff0000;
